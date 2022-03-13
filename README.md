@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BySuspect
+- 👀 I’m interested in game developing
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking to collaborate on some game developers
+- 📫 How to reach me: omerbayraktar64@gmail.com
