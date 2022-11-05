@@ -2,7 +2,7 @@
 <h3 align="center">A Mobile Developer from Turkey</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bysuspect&label=Profile%20views&color=bb00ff&style=flat" alt="bysuspect" />
-</p> - 🌱 I’m currently learning **Xamarin** 
+</p> - 🌱 I’m currently learning **Unity** 
 - 📫 How to reach me **omerbayraktar64@gmail.com** <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/bysuspect" target="blank">
