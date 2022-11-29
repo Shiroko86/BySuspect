@@ -72,7 +72,3 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BySuspect" />
   </a>
 </p>
-<br>
-<br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysuspect&show_icons=true&theme=dark&locale=en&layout=compact" alt="bysuspect" />
