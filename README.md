@@ -1,10 +1,10 @@
 <div align="center"><strong><h2>Hello! I'm Omer,<br>Software Developer from Turkiye!</h2></strong></div>  
   
 
-- 📌 I’m currently learning image manipulation with OpenCV  
+- 📌 I’m currently learning Unity
   
 
-- ⚡My hobbies: watching animes  
+- ⚡My hobbies: watching Animes  
   
 
 <br/>  
