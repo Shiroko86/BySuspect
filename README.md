@@ -1,4 +1,4 @@
-### <div align="center">I'm Omer, Software Developer from Turkiye</div>  
+<div align="center"><strong><h2>Hello! I'm Omer,<br>Software Developer from Turkiye!</h2></strong></div>  
   
 
 - 📌 I’m currently learning image manipulation with OpenCV  
