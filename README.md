@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Omer, Software Developer from Turkiye</div>  
   
 
@@ -69,18 +64,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BySuspect&show_icons=true&count_private=true&hide_border=true&amp;theme=dark" align="center" /></div>    
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BySuspect&amp;layout=compact&amp;theme=dark" width="350" height="280"/></div>
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kchznfbjgavbhh9a06005kk2c&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=true" /></div>  
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=BySuspect&&style=flat-square" align="center" />
-</div>  
-  
+
+![GitHub Statistics](https://metrics.lecoq.io/bysuspect?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
+
+</div>
 
 <br/>  
 
