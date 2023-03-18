@@ -68,6 +68,8 @@
 <div align="center">
 
 ![GitHub Statistics](https://metrics.lecoq.io/bysuspect?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=bysuspect&color=9c84ef)
 
 </div>
 
