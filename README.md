@@ -7,6 +7,9 @@
 - ⚡My hobbies: watching Animes  
   
 
+- ✉️Contact me: contact@shiroko.dev  
+  
+
 <br/>  
 
 
