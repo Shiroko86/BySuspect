@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bysuspect&label=Profile%20views&color=0e75b6&style=flat" alt="bysuspect" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysuspect" alt="bysuspect" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysuspect&theme=dracula" alt="bysuspect" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/bysoloking" target="blank"><img src="https://img.shields.io/twitter/follow/bysoloking?logo=twitter&style=for-the-badge" alt="bysoloking" /></a> </p>
 
