@@ -109,5 +109,8 @@
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bysuspect&theme=midnight-purple" alt="bysuspect" />
-  </p> ![GitHub Statistics](https://metrics.lecoq.io/bysuspect?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
+  </p> 
+  <p>
+    <img align="center" src="https://metrics.lecoq.io/bysuspect?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich" alt="bysuspect" />
+  </p> 
 </div>
