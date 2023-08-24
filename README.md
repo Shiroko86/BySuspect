@@ -8,10 +8,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bysuspect&theme=dracula" alt="bysuspect" />
   </a>
 </p>
-<p align="center">
-  <a href="https://twitter.com/bysoloking" target="blank">
-    <img src="https://img.shields.io/twitter/follow/bysoloking?logo=twitter&style=for-the-badge" alt="bysoloking" />
-  </a>
 </p>
 <h2 align="left">Connect with me:</h2>
 <p align="center">
