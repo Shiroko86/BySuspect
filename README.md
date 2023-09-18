@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer,</h1>
 <h3 align="center">Software Developer from Turkiye!</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bysuspect&label=Profile%20views&color=0e75b6&style=flat" alt="bysuspect" />
+  <img src="https://komarev.com/ghpvc/?username=bysuspect&label=Profile%20views&color=blueviolet&style=flat" alt="bysuspect" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
