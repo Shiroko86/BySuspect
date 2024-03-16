@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=BySuspect&theme=darkhub&margin-w=0&column=9&row=1&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BySuspect&theme=darkhub&margin-w=0&column=10&row=1&no-frame=true" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BySuspect&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=BySuspect&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=BySuspect&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
